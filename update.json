@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/lyy0203/intrace/releases/download/v1.1/InTrace-v1.1.apk",
+  "note": "· 读书记录：书评感悟输入框加高，卡片长按删除\n· 日历：格子更大、背景图更有质感，日期对齐，周日开头，可左右滑动换月\n· 手账盖章贴纸：升级为真实印章质感，可拖动位置\n· 设置页精简：移除备份/迁移数据包，保留一键清空"
+}
