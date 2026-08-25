@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://lyy0203.github.io/intrace/InTrace-v1.2.apk",
-  "note": "· 睡眠：时间选择改为滚轮（入睡/醒来），自动计算时长\n· 睡眠：支持删除记录，删除后总时长重新计算\n· 睡眠：同一天多条记录自动累加为总睡眠\n· 首页：新增今日心情与睡眠的轻量展示"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://lyy0203.github.io/intrace/InTrace-v1.3.apk",
+  "note": "· 首页：今日心情与睡眠可点击，弹出总览抽屉\n· 心情：支持一天多条，首页全部展示\n· 总览：可查看、编辑、删除每条心情与睡眠\n· 睡眠：保留多条自动累加总时长"
 }
