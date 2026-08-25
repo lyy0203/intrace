@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://lyy0203.github.io/intrace/InTrace-v1.4.apk",
-  "note": "· 睡眠滚轮：分钟改为 1 分钟一档，自由选择\n· 修复：切换入睡/醒来不再重置已选时间\n· 睡眠时长实时自动计算更新"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://lyy0203.github.io/intrace/InTrace-v1.5.apk",
+  "note": "· 新增「用户指引」：附录页内置完整使用说明，随时可查\n· 其余功能与交互保持不变"
 }
